@@ -1,1 +1,1 @@
-<hl>MaxOS</hl>
+<hl>MaxOS is cool</hl>
